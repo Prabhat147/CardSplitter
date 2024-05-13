@@ -39,7 +39,7 @@ def copy_text(text_widget):
 # Create the main window
 root = tk.Tk()
 root.title("CardSplitter: Credit Card Info Extractor")
-root.geometry("500x400")
+root.geometry("700x400")
 
 # Style
 style = ttk.Style()
